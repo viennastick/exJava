@@ -9,6 +9,7 @@ public class Hello {
 		System.out.println("안녕? add vienna");
 		System.out.println("안녕? add vienna");
 		System.out.println("마스터가 합친다면?");
+		System.out.println("2222");
 	}
 
 }
